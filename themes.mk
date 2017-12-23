@@ -1,9 +1,5 @@
 # QS tile styles
 PRODUCT_PACKAGES += \
-    QStilesSquare \
-    QStilesRoundedSquare \
-    QStilesSquircle \
-    QStilesTearDrop \
     QSTileSquircle \
     QSTileTearDrop \
     QSTileCircleDual \
@@ -17,7 +13,6 @@ PRODUCT_PACKAGES += \
     QSTileDottedCircle \
     QSTileNinja \
     QSTilePokesign \
-    QSTileShishuInk \
     QSTileShishuInk \
     QSTileCosmos \
     QSTileDividedCircle \
