@@ -39,7 +39,9 @@ PRODUCT_PACKAGES += \
     SettingsBlackAF \
     SystemBlackAF \
     SettingsIntelligenceBlackAF \
-    WellbeingBlackAF
+    WellbeingBlackAF \
+    UpdaterBlackAF
+
 
 # Switch themes
 PRODUCT_PACKAGES += \
