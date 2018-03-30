@@ -38,6 +38,13 @@ PRODUCT_PACKAGES += \
     SystemUiDark \
     WellbeingDark
 
+# BlackAF Theme
+PRODUCT_PACKAGES += \
+    GBoardBlackAF \
+    SettingsBlackAF \
+    SystemBlackAF \
+    SettingsIntelligenceBlackAF
+
 # Switch themes
 PRODUCT_PACKAGES += \
     MD2Switch \
