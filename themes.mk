@@ -16,3 +16,9 @@ PRODUCT_PACKAGES += \
     SystemDark \
     SystemUiDark \
     WellbeingDark
+
+# Switch themes
+PRODUCT_PACKAGES += \
+    MD2Switch \
+    OnePlusSwitch \
+    StockSwitch
