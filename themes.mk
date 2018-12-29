@@ -17,6 +17,12 @@ PRODUCT_PACKAGES += \
     SystemUiDark \
     WellbeingDark
 
+# Switch themes
+PRODUCT_PACKAGES += \
+    MD2Switch \
+    OnePlusSwitch \
+    StockSwitch
+
 # Fonts
 PRODUCT_PACKAGES += \
     CustomFonts
