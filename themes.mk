@@ -15,3 +15,7 @@ PRODUCT_PACKAGES += \
     SettingsIntelligenceDark \
     SystemDark \
     WellbeingDark
+
+# Fonts
+PRODUCT_PACKAGES += \
+    ViperFonts
