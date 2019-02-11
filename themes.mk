@@ -18,4 +18,5 @@ PRODUCT_PACKAGES += \
 
 # Fonts
 PRODUCT_PACKAGES += \
-    ViperFonts
+    CustomFonts
+
