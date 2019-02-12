@@ -27,4 +27,10 @@
          it should be disabled in that locale's resources. -->
     <bool name="config_buttonTextAllCaps">false</bool>
 
+    <!-- Google Sans font usage -->
+    <string name="config_headlineFontFamily">google-sans</string>
+    <string name="config_headlineFontFamilyLight">google-sans</string>
+    <string name="config_headlineFontFeatureSettings">ss03</string>
+    <string name="config_headlineFontFamilyMedium">google-sans-medium</string>
+
 </resources>
