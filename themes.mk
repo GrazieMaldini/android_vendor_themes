@@ -38,7 +38,8 @@ PRODUCT_PACKAGES += \
     GBoardBlackAF \
     SettingsBlackAF \
     SystemBlackAF \
-    SettingsIntelligenceBlackAF
+    SettingsIntelligenceBlackAF \
+    WellbeingBlackAF
 
 # Switch themes
 PRODUCT_PACKAGES += \
