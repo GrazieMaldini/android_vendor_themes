@@ -3,7 +3,10 @@ PRODUCT_PACKAGES += \
     QStilesSquare \
     QStilesRoundedSquare \
     QStilesSquircle \
-    QStilesTearDrop
+    QStilesTearDrop \
+    QSTilesJustIcons \
+    QStilesCircleOutline \
+    QSTilesCircleGradient
 
 # Themes
 PRODUCT_PACKAGES += \
@@ -16,3 +19,8 @@ PRODUCT_PACKAGES += \
     SystemDark \
     SystemUiDark \
     WellbeingDark
+
+# Fonts
+PRODUCT_PACKAGES += \
+    CustomFonts
+
