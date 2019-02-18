@@ -27,4 +27,11 @@ PRODUCT_PACKAGES += \
     UserSix \
     UserSeven \
     Yellow \
-    White
+    White \
+    NBlue \
+    NBrown \
+    NGreen \
+    NOrange \
+    NPink \
+    NPurple \
+    NRed \
