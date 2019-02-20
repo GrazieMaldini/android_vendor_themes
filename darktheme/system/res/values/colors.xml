@@ -54,4 +54,7 @@
     <color name="notification_default_color_light">@*android:color/theme_text1</color>
     <color name="notification_default_color_dark">@*android:color/theme_text1</color>
 
+    <!-- Extras -->
+    <color name="BottomBarBackground">@*android:color/primary_device_default_dark</color>
+
 </resources>
