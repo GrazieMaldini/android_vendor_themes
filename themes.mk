@@ -53,7 +53,8 @@ PRODUCT_PACKAGES += \
 
 # Themes
 PRODUCT_PACKAGES += \
-    DUFonts
+    DUFonts \
+    OmniStyle 
 
 # BlackAF Theme
 PRODUCT_PACKAGES += \
