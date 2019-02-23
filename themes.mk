@@ -50,6 +50,10 @@ PRODUCT_PACKAGES += \
     StockSwitch \
     SwitchTelegram
 
+# Custom Header
+PRODUCT_PACKAGES += \
+    OmniStyle 
+
 # Fonts
 PRODUCT_PACKAGES += \
     CustomFonts
