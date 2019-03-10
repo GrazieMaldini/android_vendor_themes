@@ -7,6 +7,7 @@
     <color name="bottom_nav_text_icon_inactive">@*android:color/hint_foreground_light</color>
 	
     <color name="condition_card_background">@*android:color/black</color>
+    <color name="suggestion_card_background">@*android:color/black</color>
     <color name="suggestion_condition_background">@*android:color/black</color>
     <color name="suggestion_tile_background">@*android:color/black</color>
     <color name="suggestion_title_text_color">@*android:color/white</color>
