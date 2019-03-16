@@ -3,10 +3,7 @@ PRODUCT_PACKAGES += \
     QStilesSquare \
     QStilesRoundedSquare \
     QStilesSquircle \
-    QStilesTearDrop \
-    QSTilesJustIcons \
-    QStilesCircleOutline \
-    QSTilesCircleGradient
+    QStilesTearDrop
 
 # Themes
 PRODUCT_PACKAGES += \
