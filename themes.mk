@@ -1,9 +1,5 @@
 # QS tile styles
 PRODUCT_PACKAGES += \
-    QStilesSquare \
-    QStilesRoundedSquare \
-    QStilesSquircle \
-    QStilesTearDrop \
 	QSTileSquircle \
 	QSTileTearDrop \
 	QSTileCircleDual \
