@@ -42,6 +42,30 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     DUFonts
 
+
+# Accents from famous brands
+PRODUCT_PACKAGES += \
+    AospaGreen \
+    AndroidOneGreen \
+    CocaColaRed \
+    DiscordPurple \
+    FacebookBlue \
+    InstagramCerise \
+    JollibeeCrimson \
+    MonsterGreen \
+    NextbitMint \
+    OnePlusRed \
+    PepsiBlue \
+    PocoYellow \
+    RazerGreen \
+    SamsungBlue \
+    SpotifyGreen \
+    StarbucksGreen \
+    TwitchPurple \
+    TwitterBlue \
+    XboxGreen \
+    XiaomiOrange
+
 # Aesthetic Accents from POSP
 PRODUCT_PACKAGES += \
     FadedPink \
