@@ -42,6 +42,14 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     DUFonts
 
+# Aesthetic Accents from POSP
+PRODUCT_PACKAGES += \
+    FadedPink \
+    DeepRed \
+    PinkRed \
+    KindaIndigo \
+    ArmyGreen
+
 # BlackAF Theme
 PRODUCT_PACKAGES += \
     GBoardBlackAF \
