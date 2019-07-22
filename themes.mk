@@ -38,6 +38,10 @@ PRODUCT_PACKAGES += \
     SystemUiDark \
     WellbeingDark
 
+# Themes
+PRODUCT_PACKAGES += \
+    DUFonts
+
 # BlackAF Theme
 PRODUCT_PACKAGES += \
     GBoardBlackAF \
