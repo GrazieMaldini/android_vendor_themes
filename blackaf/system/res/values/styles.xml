@@ -103,6 +103,8 @@
         <!-- Dialog attributes -->
         <item name="android:dialogCornerRadius">@*android:dimen/config_dialogCornerRadius</item>
         <item name="android:alertDialogTheme">@*android:style/Theme.DeviceDefault.Light.Dialog.Alert</item>
+        <!-- Text styles -->
+        <item name="android:textAppearanceButton">@*android:style/TextAppearance.DeviceDefault.Widget.Button</item>
         <!-- Button styles -->
         <item name="android:buttonCornerRadius">@*android:dimen/config_buttonCornerRadius</item>
         <item name="android:buttonBarButtonStyle">@*android:style/Widget.DeviceDefault.Button.ButtonBar.AlertDialog</item>
