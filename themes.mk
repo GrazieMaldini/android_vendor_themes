@@ -5,14 +5,46 @@ PRODUCT_PACKAGES += \
     QStilesSquircle \
     QStilesTearDrop
 
-# Themes
+# UI Variants
 PRODUCT_PACKAGES += \
-    GBoardDark \
-    GBoardLight \
-    GoogleIntelligenceSenseDark \
-    GoogleIntelligenceSenseLight \
-    SettingsDark \
-    SettingsIntelligenceDark \
-    SystemDark \
-    SystemUiDark \
-    WellbeingDark
+    SystemDarkTheme \
+    SettingsDarkTheme \
+    SystemUIDarkTheme \
+    SystemBlackTheme \
+    SettingsBlackTheme \
+    SystemUIBlackTheme \
+    SystemExtendedTheme \
+    SettingsExtendedTheme \
+    SystemUIExtendedTheme \
+    SystemChocolateTheme \
+    SettingsChocolateTheme \
+    SystemUIChocolateTheme \
+    ContactsThemeBlack \
+    DialerThemeBlack \
+    FilesThemeBlack \
+    WellbeingBlackTheme \
+    UpdatesThemeBlack \
+    ContactsThemeDark \
+    DialerThemeDark \
+    FilesThemeDark \
+    WellbeingDarkTheme \
+    UpdatesThemeDark \
+    ContactsThemeChocolate \
+    DialerThemeChocolate \
+    FilesThemeChocolate \
+    WellbeingChocolateTheme \
+    UpdatesThemeChocolate \
+    ContactsThemeExtended \
+    DialerThemeExtended \
+    FilesThemeExtended \
+    WellbeingExtendedTheme \
+    UpdatesThemeExtended \
+    SystemElegantTheme \
+    SettingsElegantTheme \
+    SystemUIElegantTheme \
+    ContactsThemeElegant \
+    DialerThemeElegant \
+    FilesThemeElegant \
+    WellbeingElegantTheme \
+    GooglePlayElegantTheme \
+    UpdatesThemeElegant
